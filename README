@@ -5,3 +5,8 @@ File 1 = Ruby.rb
 Version = 1.0
 Date = 16/05/2011
 Description = A simple test command line file to simulate a 'Deaf Grandma'.
+
+File 2 = CalcSlap.rb
+Version = 0.6
+Date = 17/05/2011
+Description = This is a simple alpha version of a calculator app used to practise some Ruby principles learnt so far.
